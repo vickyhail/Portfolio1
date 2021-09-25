@@ -3,10 +3,14 @@
   --secondary-color:tomato;
   --tertiary-color:#684bd3;
 }
+.bar{
+  font-size: 1.5rem;
+}
 
 body{
   background-color: #bee5d3;
   font-family: 'Roboto', sans-serif !important;
+
   
 }
 

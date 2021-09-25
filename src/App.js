@@ -17,7 +17,7 @@ function App() {
       <NavbarComp />
       <Switch>
 
-      <Route path="/home" exact>
+      <Route path="/" exact>
       <div className="home">
            <Intro />
            <About />
@@ -29,7 +29,7 @@ function App() {
         </Route>
 
 
-        <Route path="/aboutme" >
+        <Route path="/about" >
            <About />
            </Route>
 
